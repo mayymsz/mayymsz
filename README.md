@@ -7,7 +7,7 @@
      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;
   </p>
   <br>
-  <a href="mailto:maahmoura2003@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:maahmoura2003@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
   <a href="https://www.linkedin.com/in/mayene-moura-a525a826b/" alt="Linkedin" target="_blank">
@@ -23,8 +23,8 @@
 
 <div align="left">
   <p>
-  <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind" width="30%">
+  <h3><strong> ✦ Skills </strong> </h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,c,figma" width="30%">
   </p>  
  </div>
  
@@ -35,7 +35,7 @@
 
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=mayymsz&theme=tokyonight&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayymsz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayymsz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph" />
 </div>
 <br>
 
