@@ -24,7 +24,7 @@
 <div align="left">
   <p>
   <h3><strong> ✦ Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,c,figma" width="30%">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,tailwind,c,figma" width="30%">
   </p>  
  </div>
  
