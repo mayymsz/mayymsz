@@ -16,11 +16,7 @@
 
 <h2></h2>
   <br>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
-  <div align="left">
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
-  <div align="left">
-
+ 
 <div align="left">
   <p>
   <h3><strong> ✦ Skills </strong> </h3>
@@ -31,11 +27,11 @@
 <br><h2></h2><br>
 
 <div align="center"> 
-<img src= "https://github-readme-stats.vercel.app/api?username=mayymsz&theme=tokyonight" width="46%" alt="stats graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayymsz&theme=tokyonight" width="48%" alt="stats graph" />
 
-<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=mayymsz&theme=tokyonight&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mayymsz&theme=tokyonight&border_radius=4.7&show_icons=true&count_private=true" width="48%" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayymsz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayymsz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph" />
 </div>
 <br>
 
